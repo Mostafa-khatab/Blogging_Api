@@ -102,19 +102,4 @@ The **Blogging API** project is a robust backend solution designed to allow user
 - **Authentication:** JWT (JSON Web Token)
 - **API Documentation:** Scalar (OpenAPI)
 
----
 
-## Security Measures
-
-- **HTTPS** to encrypt data in transit.
-- **Input Validation and Sanitization** to prevent common security vulnerabilities (e.g., SQL Injection, XSS).
-- **Password Hashing** using secure algorithms like bcrypt.
-- **JWT Authentication** for secure session management.
-
----
-
-## Performance Enhancements
-
-- **Caching:** Implement caching strategies for faster response times.
-- **Optimized Queries:** Handle large datasets efficiently.
-- **Load Balancing:** Distribute traffic evenly across multiple servers.
