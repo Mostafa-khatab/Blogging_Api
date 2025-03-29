@@ -1,0 +1,17 @@
+D:\asp\BlogApi\BlogApi.EF\bin\Debug\net9.0\BlogApi.EF.deps.json
+D:\asp\BlogApi\BlogApi.EF\bin\Debug\net9.0\BlogApi.EF.runtimeconfig.json
+D:\asp\BlogApi\BlogApi.EF\bin\Debug\net9.0\BlogApi.EF.dll
+D:\asp\BlogApi\BlogApi.EF\bin\Debug\net9.0\BlogApi.EF.pdb
+D:\asp\BlogApi\BlogApi.EF\bin\Debug\net9.0\BlogApi.Core.dll
+D:\asp\BlogApi\BlogApi.EF\bin\Debug\net9.0\BlogApi.Core.pdb
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.csproj.AssemblyReference.cache
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.AssemblyInfoInputs.cache
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.AssemblyInfo.cs
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.csproj.CoreCompileInputs.cache
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.csproj.Up2Date
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.dll
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\refint\BlogApi.EF.dll
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.pdb
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\BlogApi.EF.genruntimeconfig.cache
+D:\asp\BlogApi\BlogApi.EF\obj\Debug\net9.0\ref\BlogApi.EF.dll
